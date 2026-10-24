@@ -12,11 +12,7 @@ When running the project locally, access the platform portals at:
 
 | Portal / View | Local URL | Description |
 | :--- | :--- | :--- |
-| **🏠 Main Landing & Auth** | [http://localhost:3000](http://localhost:3000) | Dual login portal for Employees and HR Supervisors |
-| **📝 Take Assessment** | [http://localhost:3000/take-assessment](http://localhost:3000/take-assessment) | Interactive Situational Judgment Test with live anti-gaming monitoring |
-| **📊 Supervisor Dashboard** | [http://localhost:3000/dashboard](http://localhost:3000/dashboard) | Departmental analytics, trait distributions, and AI HR Advisor chatbot |
-| **📄 Candidate Report View** | [http://localhost:3000/report/e01](http://localhost:3000/report/e01) | Detailed radar charts, score bands, evidence citations, and flag review |
-| **🗄️ Database Management** | [http://localhost:3000/database](http://localhost:3000/database) | Realtime Database sync, employee directory, and submission records |
+| **🏠 Main Landing & Auth** | [http://localhost:3000]
 
 ---
 
