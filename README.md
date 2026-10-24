@@ -10,9 +10,9 @@ TrustAssess is an intelligent behavioral evaluation platform built with Next.js 
 
 When running the project locally, access the platform portals at:
 
-| Portal / View | Local URL | Description |
+| Portal / View | Local URL |
 | :--- | :--- | :--- |
-| **🏠 Main Landing & Auth** | [http://localhost:3000]
+| **🏠 Main Landing & Auth** | http://localhost:3000
 
 ---
 
