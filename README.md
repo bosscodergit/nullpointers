@@ -5,17 +5,6 @@
 TrustAssess is an intelligent behavioral evaluation platform built with Next.js 16, React 19, Tailwind CSS, Recharts, and Google Gemini AI. It transforms traditional workplace soft-skill evaluation through situational judgment tests (SJTs), grounded LLM rubric scoring, real-time telemetry-based anti-cheating detection, and an executive supervisor dashboard with an integrated HR AI advisor.
 
 ---
-
-## 🚀 Quick Access (Localhost Links)
-
-When running the project locally, access the platform portals at:
-
-| Portal / View | Local URL |
-| :--- | :--- | :--- |
-| **🏠 Main Landing & Auth** | http://localhost:3000
-
----
-
 ## 🔑 Demo Access & Test Credentials
 
 You can test the entire platform without any manual registration using these pre-configured credentials:
